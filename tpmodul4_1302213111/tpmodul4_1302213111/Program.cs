@@ -10,14 +10,58 @@ public class KodePos
         return kode_pos[(int)kelurahan];
     }
 
-
-
-    public static void Main()
+    public class DoorMachine
     {
-        KodePos kode_pos = new KodePos();
-        int getKodePos = KodePos.getKodePos(KodePos.Kelurahan.Jatisari);
-        Console.WriteLine(getKodePos); //kode pos seharusnya : 40286
-        Console.WriteLine();
+        enum State { Terkunci, Terbuka }
+
+        public static void Main()
+        {
+            KodePos kode_pos = new KodePos();
+            int getKodePos = KodePos.getKodePos(KodePos.Kelurahan.Jatisari); // misalnya menggunakan kelurahan Jatisari
+            Console.WriteLine("Kode Pos Kelurahan "+Kelurahan.Jatisari+" adalah "+getKodePos+Environment.NewLine); //kode pos seharusnya : 40286
+
+            State state = State.Terkunci;
+            string[] screenName = { "Pintu Terkunci", "Pintu Tidak Terkunci" };
+            while (state != null)
+            {
+                Console.WriteLine(screenName[(int)state]);
+                Console.Write("Enter Command : ");
+
+                String command = Console.ReadLine();
+                switch (state)
+                {
+                    case State.Terkunci:
+                        if (command == "Kunci Pintu")
+                            state = State.Terkunci;
+                        else if (command == "Buka Pintu")
+                            state = State.Terbuka;
+                        else
+                        {
+                            state = State.Terkunci;
+                            Console.WriteLine("Command Salah");
+                        }
+                        Console.WriteLine(Environment.NewLine);
+                        break;
+
+                    case State.Terbuka:
+                        if (command == "Buka Pintu")
+                            state = State.Terbuka;
+                        else if (command == "Kunci Pintu")
+                            state = State.Terkunci;
+                        else
+                        {
+                            state = State.Terbuka;
+                            Console.WriteLine("Command Salah");
+                        }
+                        Console.WriteLine(Environment.NewLine);
+                        break;
+                }
+
+            }
+        }
+
     }
+
+    
 }
 
