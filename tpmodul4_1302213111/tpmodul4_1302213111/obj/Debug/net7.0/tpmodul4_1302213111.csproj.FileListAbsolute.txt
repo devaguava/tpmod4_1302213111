@@ -1,0 +1,15 @@
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\obj\Debug\net7.0\tpmodul4_1302213111.csproj.AssemblyReference.cache
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\obj\Debug\net7.0\tpmodul4_1302213111.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\obj\Debug\net7.0\tpmodul4_1302213111.AssemblyInfoInputs.cache
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\obj\Debug\net7.0\tpmodul4_1302213111.AssemblyInfo.cs
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\obj\Debug\net7.0\tpmodul4_1302213111.csproj.CoreCompileInputs.cache
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\bin\Debug\net7.0\tpmodul4_1302213111.exe
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\bin\Debug\net7.0\tpmodul4_1302213111.deps.json
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\bin\Debug\net7.0\tpmodul4_1302213111.runtimeconfig.json
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\bin\Debug\net7.0\tpmodul4_1302213111.dll
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\bin\Debug\net7.0\tpmodul4_1302213111.pdb
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\obj\Debug\net7.0\tpmodul4_1302213111.dll
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\obj\Debug\net7.0\refint\tpmodul4_1302213111.dll
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\obj\Debug\net7.0\tpmodul4_1302213111.pdb
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\obj\Debug\net7.0\tpmodul4_1302213111.genruntimeconfig.cache
+D:\SEMESTER 4\KPL (Konstruksi Perangkat Lunak)\Praktikum\TPmod4\tpmod4_1302213111\tpmodul4_1302213111\tpmodul4_1302213111\obj\Debug\net7.0\ref\tpmodul4_1302213111.dll
